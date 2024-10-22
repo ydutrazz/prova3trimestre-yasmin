@@ -6,7 +6,7 @@ h1 {
   
   .quote1 {
     font-size: 24px;
-    color: #D7F75B;
+    color: darkgreen;
     text-align: center;
     font-style: italic;
     text-shadow: #272727 0.1px 0 1px;
@@ -23,7 +23,7 @@ h1 {
   
   .quote2 {
     font-size: 24px;
-    color: #D7F75B;
+    color: darkolivegreen;
     text-align: center;
     text-shadow: #272727 0.1px 0 1px;
   

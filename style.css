@@ -3,15 +3,14 @@ h1 {
     text-align: center; 
     text-shadow: #272727 0.1px 0 2px;
 }
-    
-  
+
   .quote1 {
     font-size: 24px;
     color: darkgreen;
     text-align: center;
     font-style: italic;
     text-shadow: #272727 0.1px 0 1px;
-    
+
   }
   
   .date {
